@@ -1,0 +1,42 @@
+﻿  GameLife.cpp
+D:\Программирование\Проекты\GameLife\GameLife.cpp(61,39): warning C4244:  аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Программирование\Проекты\GameLife\GameLife.cpp(61,39): warning C4244:         with
+D:\Программирование\Проекты\GameLife\GameLife.cpp(61,39): warning C4244:         [
+D:\Программирование\Проекты\GameLife\GameLife.cpp(61,39): warning C4244:             T=float
+D:\Программирование\Проекты\GameLife\GameLife.cpp(61,39): warning C4244:         ]
+D:\Программирование\Проекты\GameLife\GameLife.cpp(61,96): warning C4244:  аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Программирование\Проекты\GameLife\GameLife.cpp(61,96): warning C4244:         with
+D:\Программирование\Проекты\GameLife\GameLife.cpp(61,96): warning C4244:         [
+D:\Программирование\Проекты\GameLife\GameLife.cpp(61,96): warning C4244:             T=float
+D:\Программирование\Проекты\GameLife\GameLife.cpp(61,96): warning C4244:         ]
+D:\Программирование\Проекты\GameLife\GameLife.cpp(61,74): warning C4244:  аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Программирование\Проекты\GameLife\GameLife.cpp(61,74): warning C4244:         with
+D:\Программирование\Проекты\GameLife\GameLife.cpp(61,74): warning C4244:         [
+D:\Программирование\Проекты\GameLife\GameLife.cpp(61,74): warning C4244:             T=float
+D:\Программирование\Проекты\GameLife\GameLife.cpp(61,74): warning C4244:         ]
+D:\Программирование\Проекты\GameLife\GameLife.cpp(67,41): warning C4244:  аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Программирование\Проекты\GameLife\GameLife.cpp(67,41): warning C4244:         with
+D:\Программирование\Проекты\GameLife\GameLife.cpp(67,41): warning C4244:         [
+D:\Программирование\Проекты\GameLife\GameLife.cpp(67,41): warning C4244:             T=float
+D:\Программирование\Проекты\GameLife\GameLife.cpp(67,41): warning C4244:         ]
+D:\Программирование\Проекты\GameLife\GameLife.cpp(67,90): warning C4244:  аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Программирование\Проекты\GameLife\GameLife.cpp(67,90): warning C4244:         with
+D:\Программирование\Проекты\GameLife\GameLife.cpp(67,90): warning C4244:         [
+D:\Программирование\Проекты\GameLife\GameLife.cpp(67,90): warning C4244:             T=float
+D:\Программирование\Проекты\GameLife\GameLife.cpp(67,90): warning C4244:         ]
+D:\Программирование\Проекты\GameLife\GameLife.cpp(67,81): warning C4244:  аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Программирование\Проекты\GameLife\GameLife.cpp(67,81): warning C4244:         with
+D:\Программирование\Проекты\GameLife\GameLife.cpp(67,81): warning C4244:         [
+D:\Программирование\Проекты\GameLife\GameLife.cpp(67,81): warning C4244:             T=float
+D:\Программирование\Проекты\GameLife\GameLife.cpp(67,81): warning C4244:         ]
+D:\Программирование\Проекты\GameLife\GameLife.cpp(112,58): warning C4244:  аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Программирование\Проекты\GameLife\GameLife.cpp(112,58): warning C4244:         with
+D:\Программирование\Проекты\GameLife\GameLife.cpp(112,58): warning C4244:         [
+D:\Программирование\Проекты\GameLife\GameLife.cpp(112,58): warning C4244:             T=float
+D:\Программирование\Проекты\GameLife\GameLife.cpp(112,58): warning C4244:         ]
+D:\Программирование\Проекты\GameLife\GameLife.cpp(112,44): warning C4244:  аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Программирование\Проекты\GameLife\GameLife.cpp(112,44): warning C4244:         with
+D:\Программирование\Проекты\GameLife\GameLife.cpp(112,44): warning C4244:         [
+D:\Программирование\Проекты\GameLife\GameLife.cpp(112,44): warning C4244:             T=float
+D:\Программирование\Проекты\GameLife\GameLife.cpp(112,44): warning C4244:         ]
+  GameLife.vcxproj -> D:\Программирование\Проекты\GameLife\x64\Debug\GameLife.exe
